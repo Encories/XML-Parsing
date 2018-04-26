@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tr:candies xmlns:tr="http://www.it-academy.by/rubakhin/xml"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.it-academy.by/rubakhin/xml candies.xsd">
+
+    <candy id="1">
+        <name>Sierra</name>
+        <energy>1550</energy>
+        <type>Lollipop</type>
+        <ingredients>
+            <water>10</water>
+            <sugar>15</sugar>
+        </ingredients>
+        <value>
+            <proteins>245</proteins>
+            <fats>354</fats>
+            <carbohydrates>456</carbohydrates>
+        </value>
+        <production>CharliesCandy</production>
+    </candy>
+
+
+    <candy id="2">
+        <name>Nevada</name>
+        <energy>333</energy>
+        <type>Chocolate with filling</type>
+        <ingredients>
+            <water>285</water>
+            <fructose>469</fructose>
+        </ingredients>
+        <value>
+            <proteins>888</proteins>
+            <fats>200</fats>
+            <carbohydrates>456</carbohydrates>
+        </value>
+        <production>ChocolateFactory</production>
+    </candy>
+
+    <candy id="3">
+        <name>Alionka</name>
+        <energy>555</energy>
+        <type>Chocolate without filling</type>
+        <ingredients>
+            <water>567</water>
+            <fructose>667</fructose>
+        </ingredients>
+        <value>
+            <proteins>900</proteins>
+            <fats>999</fats>
+            <carbohydrates>677</carbohydrates>
+        </value>
+        <production>Spartak</production>
+    </candy>
+
+    <candy id="4">
+        <name>SweetSauer</name>
+        <energy>455</energy>
+        <type>ChupaChups</type>
+        <ingredients>
+            <water>343</water>
+            <fructose>111</fructose>
+        </ingredients>
+        <value>
+            <proteins>440</proteins>
+            <fats>14</fats>
+            <carbohydrates>65</carbohydrates>
+        </value>
+        <production>SauerSweet</production>
+    </candy>
+
+    <candy id="5">
+        <name>Snickers</name>
+        <energy>1200</energy>
+        <type>Chocolate with filling</type>
+        <ingredients>
+            <water>22</water>
+            <sugar>44</sugar>
+        </ingredients>
+        <value>
+            <proteins>150</proteins>
+            <fats>180</fats>
+            <carbohydrates>105</carbohydrates>
+        </value>
+        <production>Mars</production>
+    </candy>
+
+
+    <candy id="6">
+        <name>GreenHouse</name>
+        <energy>1550</energy>
+        <type>ChupaChups</type>
+        <ingredients>
+            <water>1505</water>
+            <sugar>987</sugar>
+        </ingredients>
+        <value>
+            <proteins>1860</proteins>
+            <fats>168</fats>
+            <carbohydrates>185</carbohydrates>
+        </value>
+        <production>Schmurge</production>
+    </candy>
+
+    <candy id="7">
+        <name>KrasniyBabay</name>
+        <energy>1540</energy>
+        <type>Chocolate without filling</type>
+        <ingredients>
+            <water>1055</water>
+            <fructose>7</fructose>
+        </ingredients>
+        <value>
+            <proteins>75</proteins>
+            <fats>16</fats>
+            <carbohydrates>15</carbohydrates>
+        </value>
+        <production>MoscowFactory</production>
+    </candy>
+
+
+    <candy id="8">
+        <name>YellowPleasure</name>
+        <energy>150</energy>
+        <type>Lollipop</type>
+        <ingredients>
+            <water>775</water>
+            <sugar>77</sugar>
+        </ingredients>
+        <value>
+            <proteins>777</proteins>
+            <fats>160</fats>
+            <carbohydrates>43</carbohydrates>
+        </value>
+        <production>Kommunarka</production>
+    </candy>
+
+
+    <candy id="9">
+        <name>FavoriteCandy</name>
+        <energy>560</energy>
+        <type>Lollipop</type>
+        <ingredients>
+            <water>143</water>
+            <fructose>15</fructose>
+        </ingredients>
+        <value>
+            <proteins>120</proteins>
+            <fats>46</fats>
+            <carbohydrates>15</carbohydrates>
+        </value>
+        <production>Kommunarka</production>
+    </candy>
+
+
+    <candy id="10">
+        <name>Bounty</name>
+        <energy>156</energy>
+        <type>Chocolate with filling</type>
+        <ingredients>
+            <water>156</water>
+            <fructose>16</fructose>
+        </ingredients>
+        <value>
+            <proteins>120</proteins>
+            <fats>16</fats>
+            <carbohydrates>15</carbohydrates>
+        </value>
+        <production>Kommunarka</production>
+    </candy>
+
+
+    <candy id="11">
+        <name>Hommel</name>
+        <energy>166</energy>
+        <type>Chocolate without filling</type>
+        <ingredients>
+            <water>4557</water>
+            <fructose>155</fructose>
+        </ingredients>
+        <value>
+            <proteins>176</proteins>
+            <fats>15</fats>
+            <carbohydrates>188</carbohydrates>
+        </value>
+        <production>BelgianCo</production>
+    </candy>
+
+
+    <candy id="12">
+        <name>Mom</name>
+        <energy>156</energy>
+        <type>ChupaChups</type>
+        <ingredients>
+            <water>156</water>
+            <fructose>98</fructose>
+        </ingredients>
+        <value>
+            <proteins>89</proteins>
+            <fats>199</fats>
+            <carbohydrates>88</carbohydrates>
+        </value>
+        <production>BobrDobr</production>
+    </candy>
+
+
+    <candy id="13">
+        <name>FlyHigh</name>
+        <energy>444</energy>
+        <type>Chocolate with filling</type>
+        <ingredients>
+            <water>67</water>
+            <sugar>111</sugar>
+        </ingredients>
+        <value>
+            <proteins>133</proteins>
+            <fats>144</fats>
+            <carbohydrates>1555</carbohydrates>
+        </value>
+        <production>Belavia</production>
+    </candy>
+
+
+    <candy id="14">
+        <name>Bears</name>
+        <energy>1440</energy>
+        <type>Lollipop</type>
+        <ingredients>
+            <water>555</water>
+            <fructose>665</fructose>
+        </ingredients>
+        <value>
+            <proteins>160</proteins>
+            <fats>16</fats>
+            <carbohydrates>5</carbohydrates>
+        </value>
+        <production>ForestCo</production>
+    </candy>
+
+    <candy id="14">
+        <name>Jan</name>
+        <energy>660</energy>
+        <type>Chocolate with filling</type>
+        <ingredients>
+            <water>1555</water>
+            <fructose>1665</fructose>
+        </ingredients>
+        <value>
+            <proteins>56</proteins>
+            <fats>173</fats>
+            <carbohydrates>33</carbohydrates>
+        </value>
+        <production>Wawel</production>
+    </candy>
+
+    <candy id="15">
+        <name>Riga</name>
+        <energy>1333</energy>
+        <type>Chocolate with filling</type>
+        <ingredients>
+            <water>333</water>
+            <fructose>656</fructose>
+        </ingredients>
+        <value>
+            <proteins>565</proteins>
+            <fats>36</fats>
+            <carbohydrates>65</carbohydrates>
+        </value>
+        <production>Laima</production>
+    </candy>
+
+    <candy id="16">
+        <name>Vilnius</name>
+        <energy>4333</energy>
+        <type>Chocolate without filling</type>
+        <ingredients>
+            <water>34</water>
+            <sugar>6546</sugar>
+        </ingredients>
+        <value>
+            <proteins>45</proteins>
+            <fats>45</fats>
+            <carbohydrates>55</carbohydrates>
+        </value>
+        <production>Gedimin</production>
+    </candy>
+
+</tr:candies>
